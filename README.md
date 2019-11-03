@@ -1,6 +1,7 @@
 ## Parallel scrolling demo
-Pinning elements to the window
-Animations
+Pinning elements to the window done with scrollmagic
+
+Animations done with react-gsap
 
 
 
