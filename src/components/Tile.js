@@ -1,7 +1,6 @@
 import React, {Fragment} from 'react';
 import {Tween, Timeline} from 'react-gsap'
 
-
 /**
  * Insert text at cursor position.
  *
